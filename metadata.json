@@ -1,0 +1,8 @@
+{
+  "name": "Rhône Nettoyage Services Lyon",
+  "description": "Services professionnels de nettoyage résidentiel et commercial à Lyon et dans la métropole lyonnaise. Devis gratuit sous 24h.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
